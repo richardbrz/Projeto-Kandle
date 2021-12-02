@@ -1,0 +1,13 @@
+Oi! Quero ressaltar que o jogo é simples, Não possui uma mecânica complexa e afins, projetei-o para apresentar a um site que criei juntamente.
+
+COMANDOS:
+Para andar:
+Esquerda - Setinha esquerda;
+Direita - Setinha direita;
+
+Interagir com o menu e porta - ENTER.
+
+
+Boa experiência e leitura! :)
+Qualquer dúvida, bug ou sugestão, entre em contato comigo pelo discord!
+Richardonato#5638
